@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-06-08 13:44:17",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "system",
+    "content": "SESSION_START",
+    "mode": "ai",
+    "escalated": false
+  },
+  {
+    "timestamp": "2026-06-08 13:44:35",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "user",
+    "content": "ซักผ้า 9 กิโลกรัม",
+    "mode": "ai",
+    "escalated": false
+  },
+  {
+    "timestamp": "2026-06-08 13:44:35",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "system",
+    "content": "ESCALATED — trigger: ซักผ้า 9 กิโลกรัม",
+    "mode": "admin",
+    "escalated": true
+  },
+  {
+    "timestamp": "2026-06-08 13:44:35",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "bot",
+    "content": "ขอโทษนะครับ/ค่ะ คำถามนี้หนูยังไม่สามารถตอบได้ 🙏\nกำลังแจ้ง Admin ให้เข้ามาช่วยโดยตรงเลยนะครับ/ค่ะ\n━━━━━━━━━━━━━━━━━━━━━━━━━\n🔔  [ระบบแจ้ง Admin แล้ว] รอสักครู่นะครับ/ค่ะ ⏳",
+    "mode": "admin",
+    "escalated": false
+  },
+  {
+    "timestamp": "2026-06-08 13:44:46",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "user",
+    "content": "สวัสดีครับคุณลูค้า",
+    "mode": "admin",
+    "escalated": false
+  },
+  {
+    "timestamp": "2026-06-08 13:44:46",
+    "session_id": "8b26c5c9",
+    "platform": "terminal",
+    "user_id": "local_user",
+    "role": "admin",
+    "content": "สวัสดีครับ/ค่ะ Admin เข้ามาแล้วนะครับ 👋\nรับทราบเรื่องแล้วครับ กำลังดำเนินการช่วยเหลือให้เลยนะครับ 😊",
+    "mode": "admin",
+    "escalated": false
+  }
+]

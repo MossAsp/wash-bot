@@ -1,0 +1,11 @@
+﻿timestamp,session_id,platform,user_id,role,content,mode,escalated
+2026-06-08 13:44:17,8b26c5c9,terminal,local_user,system,SESSION_START,ai,False
+2026-06-08 13:44:35,8b26c5c9,terminal,local_user,user,ซักผ้า 9 กิโลกรัม,ai,False
+2026-06-08 13:44:35,8b26c5c9,terminal,local_user,system,ESCALATED — trigger: ซักผ้า 9 กิโลกรัม,admin,True
+2026-06-08 13:44:35,8b26c5c9,terminal,local_user,bot,"ขอโทษนะครับ/ค่ะ คำถามนี้หนูยังไม่สามารถตอบได้ 🙏
+กำลังแจ้ง Admin ให้เข้ามาช่วยโดยตรงเลยนะครับ/ค่ะ
+━━━━━━━━━━━━━━━━━━━━━━━━━
+🔔  [ระบบแจ้ง Admin แล้ว] รอสักครู่นะครับ/ค่ะ ⏳",admin,False
+2026-06-08 13:44:46,8b26c5c9,terminal,local_user,user,สวัสดีครับคุณลูค้า,admin,False
+2026-06-08 13:44:46,8b26c5c9,terminal,local_user,admin,"สวัสดีครับ/ค่ะ Admin เข้ามาแล้วนะครับ 👋
+รับทราบเรื่องแล้วครับ กำลังดำเนินการช่วยเหลือให้เลยนะครับ 😊",admin,False
